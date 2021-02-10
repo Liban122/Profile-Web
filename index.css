@@ -391,6 +391,5 @@ al
       font-style: oblique;
       color: #141414;
       background-color: #d4c9c9;
-      margin-right: 100%;
-      margin-top: 50px;
+      transition: 1s;
     }
