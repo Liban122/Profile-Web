@@ -387,9 +387,10 @@ al
     }
     
     .back{
-      font-size: 60px;
+      font-size: 25px;
       font-style: oblique;
       color: #141414;
       background-color: #d4c9c9;
       transition: 1s;
+      margin: 42%;
     }
