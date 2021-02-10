@@ -39,7 +39,7 @@ $(document).ready(function() {
     });
 
 });
-
+/*
 $(window).scroll(function() {
     var height = $(window).scrollTop();
     if (height > 50) {
@@ -56,3 +56,4 @@ $(document).ready(function() {
     });
 
 });
+*/
